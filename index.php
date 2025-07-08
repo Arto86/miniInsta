@@ -68,6 +68,7 @@ img{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    overflow: scroll
 }
 i{
     font-size : 9rem;
